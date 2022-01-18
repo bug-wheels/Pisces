@@ -1,5 +1,5 @@
-# Pisces
-♓ Inspired By AFC
+# ♓ Pisces
+Inspired By AFC
 
 ![](./docs/fish.jpeg)
 
