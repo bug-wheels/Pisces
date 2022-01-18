@@ -1,5 +1,7 @@
 # Pisces
-♓  AFC
+♓ Inspired By AFC
+
+![](./docs/fish.jpeg)
 
 ## AFC 的超级简化加强版
 

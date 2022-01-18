@@ -8,6 +8,9 @@
   <artifactId>pisces</artifactId>
   <packaging>pom</packaging>
   <version>0.1-SNAPSHOT</version>
+  <modules>
+    <module>pisces-example</module>
+  </modules>
 
   <properties>
     <maven.compiler.source>8</maven.compiler.source>
